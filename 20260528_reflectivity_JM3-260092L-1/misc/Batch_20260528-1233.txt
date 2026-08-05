@@ -1,0 +1,10 @@
+2026:05:28 12:33	Memo	BEUV角度スペクトル 測定 Autoチャンバー Step測定								
+2026:05:28 12:33	Range	20 nA	200 nA							
+2026:05:28 12:33	Memo	lmd	HOYA X	Y	Smpl	Det	Auto X	Y	Smpl	Det
+2026:05:28 12:33	Memo		TiO2 position/angle						offset	offset
+2026:05:28 12:33	Memo		57	22	4.3	30	0	-76	-0.069	-0.347
+2026:05:28 12:33	Memo	Sample Start	Sample End			Det Start	Det End			WL step
+2026:05:28 12:33	Memo	80	90			160	180			0.05
+2026:05:28 12:33	Memo	;--------------------------------								
+2026:05:28 12:33	Memo	S1_2502B10	52.6	5	326					
+2026:05:28 12:33	ABS1pm	6.6								
