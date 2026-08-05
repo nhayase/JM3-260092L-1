@@ -1,0 +1,4 @@
+Smpl, Det, sig,    mon,    Ring,  sec
+#lmd,   E,  HOYAX,  Y,  Smpl,  Det, AGC X, Y, Smpl, Det, pps
+#6.70043,	185.0392,	0.000,	94.000,	88.700,	0.000,	0.000,	76.000,	0.000,	29.999,100
+
